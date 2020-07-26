@@ -1,10 +1,10 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "name": "YouTube™双字幕",
+  "name": "YouTube™中文字幕",
   "manifest_version": 2,
   "version": "1.4.2",
-  "description": "点击一下即可开启中英双字幕,适用于YouTube™",
+  "description": "点击一下即可开启中文字幕,适用于YouTube™",
   "author": "Dengrc",
   "permissions": ["tabs", "storage"],
   "icons": {
